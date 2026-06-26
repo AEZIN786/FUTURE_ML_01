@@ -57,10 +57,3 @@ The forecasting model is trained using Machine Learning techniques to learn patt
 ## Results
 
 The model generates sales predictions and visualizes trends to help understand future business demand.
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_LINK
